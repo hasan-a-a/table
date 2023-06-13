@@ -1,0 +1,31 @@
+.btn{
+    width: auto;
+    border-radius: 7px;
+    color: #ffffff;
+
+}
+.btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+
+}
+.btn-primary:hover {
+    color: #000;
+    opacity: 0.5;
+}
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.btn-danger:hover {
+    color: #000;
+    opacity: 0.5;
+}
+.btn-success {
+ background-color: #28a745 ;
+ border-color: #28a745;
+}
+.btn-success:hover {
+    color: #000;
+    opacity: 0.5;
+}

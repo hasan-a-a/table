@@ -1,0 +1,44 @@
+.List, .List01, .List02, .List03, .List04 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #E2E2E2;
+    
+}
+.List01 {
+    background-color: #f98e8e;
+}
+.List02 {
+    background-color: #dbf98e;
+}
+.List03 {
+    background-color: #8ea1f9;
+}
+.List04 {
+    background-color: #d98ef9;
+}
+.List04:hover {
+    opacity: 0.7;
+}
+.container {
+    /* text-align: center; */
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar {
+    text-decoration: none;
+   text-align: right;
+   background-color: #ebebeb;
+}
+.navbar button {
+    background-color: #0094c9;
+    color: #ffffff;
+    border: none;
+
+}
+.navbar button:hover{
+    opacity: 0.5;
+}
+.navbar a{
+    text-decoration: none;
+}
